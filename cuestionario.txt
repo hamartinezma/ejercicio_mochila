@@ -1,0 +1,11 @@
+Acciones para llegar a este paso:
+Fue necesario instalar git, luego fue necesario crear un repositorio remoto
+porque el descrito en la actividad ya no existía, 
+Habiendolo creado se procedió a configurar el remote origin y crear este
+archivo para ahora subirlo a github
+
+¿Para qué sirve apt-get?
+herramienta que usa DEBIAN para gestionar paquetes
+
+¿Para qué sirve su?
+se utiliza para cambiar de usuario
